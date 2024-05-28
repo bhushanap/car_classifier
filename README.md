@@ -1,3 +1,5 @@
+This project demo is hosted on 🤗 Hugging Face spaces and can be found ![here](https://huggingface.co/spaces/bhushanp/car_classifier)
+
 # 🚗 Car Model Classification with Stanford Cars Dataset
 
 ## 📘 Introduction
