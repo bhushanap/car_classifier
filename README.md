@@ -32,4 +32,4 @@ Even though only 70% accuracy was achieved, the wrong predictions were of cars/m
 
 A Hugging Face demo of the model running can be seen here. It should be noted that the model will only output classes and models in the dataset. So if there is no image of a particular car in the Stanford image dataset, it won't work properly.
 
-[results](demo.gif)
+![results](demo.gif)
